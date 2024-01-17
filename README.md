@@ -22,4 +22,8 @@ Research document
 
 # Participants
 Team lead: Arina Sitnikova
-Team members: Anton Moiseev (EDA, Analysis, Final report), Aleksandr Arkhipov (CTO), Rami Awadallah, Kseniya Gormash (EDA, Analysis, Visuals), Joshua Norfolk (Designs, Presentation), Priyangka Roy (Dashboard)
+Team members: Anton Moiseev (EDA, Analysis, Final report), 
+              Aleksandr Arkhipov (CTO), 
+              Kseniya Gormash (EDA, Analysis, Visuals), 
+              Joshua Norfolk (Designs, Presentation), 
+              Priyangka Roy (Dashboard)
