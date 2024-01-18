@@ -13,17 +13,27 @@ Original dataset: https://catalog.data.gov/dataset/consumer-complaint-database a
 We’re working in the banking system. Our team has decided to help enhancing support team processes in terms of dealing with customer complaints. We need to analyze what type of questions and complains have been sent regarding to loans and money transfers and categorize them so support team will have a better understanding on what complaints types they can focus on in first place to start creating their FAQ.
 
 ## Steps
-Decomposition of the task
-EDA in .ipynb
-Analysis in .ipynb
-Tableau dashboard
-Presentation
-Research document
+1. Decomposition of the task
+
+2. EDA in .ipynb
+
+3. Analysis in .ipynb
+
+4. Tableau dashboard
+
+5. Presentation
+
+6.Research document
 
 ## Participants
 Team lead: Arina Sitnikova
+
 Team members: Anton Moiseev (EDA, Analysis, Final report), 
+
               Aleksandr Arkhipov (CTO), 
+              
               Kseniya Gormash (EDA, Analysis, Visuals), 
+              
               Joshua Norfolk (Designs, Presentation), 
+              
               Priyangka Roy (Dashboard)
