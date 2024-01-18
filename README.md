@@ -28,12 +28,14 @@ We’re working in the banking system. Our team has decided to help enhancing su
 ## Participants
 Team lead: Arina Sitnikova
 
-Team members: Anton Moiseev (EDA, Analysis, Final report), 
+Team members: 
 
-              Aleksandr Arkhipov (CTO), 
-              
-              Kseniya Gormash (EDA, Analysis, Visuals), 
-              
-              Joshua Norfolk (Designs, Presentation), 
-              
-              Priyangka Roy (Dashboard)
+Anton Moiseev (EDA, Analysis, Final report), 
+
+Aleksandr Arkhipov (CTO), 
+
+Kseniya Gormash (EDA, Analysis, Visuals), 
+
+Joshua Norfolk (Designs, Presentation), 
+
+Priyangka Roy (Dashboard)
